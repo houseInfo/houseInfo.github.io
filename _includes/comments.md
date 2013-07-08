@@ -13,18 +13,19 @@
 <script type="text/javascript">
 var jiathis_config = {data_track_clickback:'true'};
 </script>
-<script type="text/javascript" src="http://v3.jiathis.com/code_mini/jia.js?uid=1364606006314128" charset="utf-8"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code_mini/jia.js?uid=1368638243803564" charset="utf-8"></script>
 
 
 <!-- JiaThis Button END -->
+
+
 <!-- UY BEGIN -->
-
 <div id="uyan_frame"></div>
-<script type="text/javascript" id="UYScript" src="http://v1.uyan.cc/js/iframe.js?UYUserId=1770934" async=""></script>
-
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1811341"></script>
 <!-- UY END -->
+
 <!-- UJian Button BEGIN -->
 <div class="ujian-hook"></div>
-<script type="text/javascript" src="http://v1.ujian.cc/code/ujian.js?uid=1770934"></script>
+<script type="text/javascript" src="http://v1.ujian.cc/code/ujian.js?uid=1811341"></script>
 <a href="http://www.ujian.cc" style="border:0;"><img src="http://img.ujian.cc/pixel.png" alt="友荐云推荐" style="border:0;padding:0;margin:0;" /></a>
 <!-- UJian Button END -->
